@@ -1,6 +1,8 @@
 - 👋 Hi, I’m David IGIRANEZA
 - 👀 I’m interested in javascript coding
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python
+
+-  
 stay coding...
 
 <!---
